@@ -1,0 +1,46 @@
+Requested by: 
+Group List: 
+Which group is requesting the change? 
+Who is the Change Owner from the group requesting the change? 
+Category: 
+Disruptive?
+Urgency: 
+Risk - To assess risk please consider how confident you are the change will go as planned and whether it will cause disruption: 
+Does this change impact scheduled jobs? 
+
+Short Description - 
+Short Description – 
+System name – 
+Version number – 
+Description - 
+-Describe the change you are making: 
+
+-Business reason:
+
+
+-Explain why you are making the change, include Jira issues if applicable:
+
+
+-What is the impact to end users?
+
+-Do they need to be notified?
+-What are the downstream impacts to other systems?
+
+-Is this a reoccurring change?
+
+
+Change Plan - Provide step by step instructions required to execute the change. Instructions should either be in line or included as an attachment, no external links.
+See attached Release plan for the following details
+Pre-Go Live activities
+Go Live Activities
+Release plan to be attached to the CR
+Backout Plan - Provide step by step instructions required to backout the change. Instructions should either be in line or included as an attachment, no external links.
+See attached Release plan for backout plan
+
+Test Plan - Provide steps for pre-deployment and post-deployment testing. Reminder: when testing has occurred (if applicable), provide the associated scorecard filled out with all required information, including test ownership, scope, schedule, and results.
+
+UAT testing score card should be attached to the CR and UAT test results needs to be shared to the CAB team
+
+Planned Start Date and Time: 
+Planned End Date and Time: 
+
