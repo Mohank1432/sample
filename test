@@ -6,3 +6,8 @@
 "{
 ""extensionattribute10"":""${(ServiceAccountOwnerMap.get('USEROWNERS').get('1').collect{it.username.toString()}[0])}""
 }"
+
+
+{
+  "extensionattribute10":"${(ServiceAccountOwnerMap.get('USEROWNERS').get('1').collect{it.username.toString()}[0])}"
+}
