@@ -1,1 +1,8 @@
-d
+"{
+""extensionattribute10"":""${if(ownerAccountListMap.size()>0 && allOwnerList.size()>0){ownerAccountListMap.get(allOwnerList.get(0)?.userkey.username)!=null && ownerAccountListMap.get(allOwnerList.get(0)?.userkey.username).size()>0?ownerAccountListMap.get(allOwnerList.get(0)?.userkey.username).get(0)?.accountID:''}else{''}}""
+}"
+
+
+"{
+""extensionattribute10"":""${(ServiceAccountOwnerMap.get('USEROWNERS').get('1').collect{it.username.toString()}[0])}""
+}"
